@@ -1,17 +1,17 @@
 # cowtopia-bot
 
-cowtopia-bot is a Telegram automation tool designed to help you manage and interact with [cowtopia bot](https://t.me/cowtopiabot/app?startapp=1370196228).
+cowtopia-bot is a Telegram automation tool designed to help you manage and interact with [catopia bot](https://t.me/catopia_game_bot/catopia?startapp=CatRefId9037BE85).
 
 <p align="center">
-  <img src="public/cowtopia.png" alt="cowtopia" width="300"/>
+  <img src="public/catopia.png" alt="cowtopia" width="300"/>
 </p>
 
 ### Features
 
-- Auto claim Offline Rewards
-- Auto claim Hourly mission
-- Auto buy animal
-- Auto buy factory
+- Auto claim Daily Rewards
+- Auto buy plant
+- Auto Claim Plant
+- Auto Claim Harvest
 - support multi account
 
 ### How to use
@@ -21,7 +21,7 @@ you can clone repository and add your token authorization
 - Clone repository
 
 ```bash
-git clone https://github.com/dkzhen/cowtopia-bot.git
+git clone https://github.com/anoderb/catopia-bot.git
 ```
 
 - add config.json on folder configs
@@ -67,6 +67,6 @@ You can found on inspact element [F12] from telegram web. open the bot and see [
 
 You can contact me for more information or report an issue.
 
-- [GitHub](https://github.com/dkzhen)
+- [GitHub](https://github.com/anoderb)
 
-- [Telegram](https://t.me/dk_zhen2)
+- [Telegram](https://t.me/khmdsy)
